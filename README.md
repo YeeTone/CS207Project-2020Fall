@@ -1,2 +1,2 @@
-# CS207-Project
+# CS207-Project@Verilog
 CS207-Project
